@@ -15,7 +15,7 @@ A simple command-line password generator that:
 - Prevents password creation if the length is too short
 
 Technologies used: `random`, `string`, `input()`, basic loops & conditionals  
-File: password_generator.py
+File: [password_generator.py](https://github.com/chiaradinca/chiara-dinca-portfolio-python-sql/blob/main/password_generator.py)
 
 ---
 
