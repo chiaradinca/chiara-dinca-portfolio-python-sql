@@ -14,12 +14,12 @@ A simple command-line password generator that:
 - Generates a secure password with random letters, digits, and symbols
 - Prevents password creation if the length is too short
 
-💡 Technologies used: `random`, `string`, `input()`, basic loops & conditionals  
-📁 File: [password_generator.py](./password_generator.py)
+Technologies used: `random`, `string`, `input()`, basic loops & conditionals  
+File: [password_generator.py](./password_generator.py)
 
 ---
 
-## 🛢SQL Projects
+## SQL Projects
 
 - `sql_queries.sql`: Basic examples of SELECT, JOIN, and aggregation
 - `library_db_design.md`: Simple database schema notes for a library management system
