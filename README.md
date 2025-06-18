@@ -17,6 +17,22 @@ A simple command-line password generator that:
 Technologies used: `random`, `string`, `input()`, basic loops & conditionals  
 File: [password_generator.py](https://github.com/chiaradinca/chiara-dinca-portfolio-python-sql/blob/main/password_generator.py)
 
+### 🐍 `snake_game.py`
+A classic Snake game built with Python and Turtle graphics.
+The player controls the snake using arrow keys, eats red "apples" to grow, and avoids crashing into walls or itself. When the game ends, a custom “Game Over” message is displayed.
+
+Features:
+
+- Keyboard controls (arrow keys)
+- Real-time movement with screen updates
+- Collision detection (walls and self)
+- Score tracking and display
+- Fun restart logic and personalized end screen
+
+Technologies used: `turtle`, `random`, `time`, `functions`, `loops`, `conditionals`, list management
+
+File: 
+
 ---
 
 ## SQL Projects
