@@ -31,7 +31,7 @@ Features:
 
 Technologies used: `turtle`, `random`, `time`, `functions`, `loops`, `conditionals`, list management
 
-File: 
+File: [Snake_game.py](https://github.com/chiaradinca/chiara-dinca-portfolio-python-sql/blob/main/Snake_game.py)
 
 ---
 
